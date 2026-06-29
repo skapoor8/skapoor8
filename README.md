@@ -16,13 +16,13 @@ Software engineer with 8 years across product engineering, platform engineering,
 
 ## Stack
 
-**DevTools:** zshell · iTerm2 · zed · neovim · mise
-**Frontend:** Typescript · SvelteKit · TanStack Start · Tailwind · Shadcn
-**Backend:** Typescript · Hono · Effect · Python · FastAPI · Postgres · MongoDB
-**Platform:** Terraform · Kubernetes · GCP · AWS · Azure
-**Systems:** C++ · Zig
-**ML/MLE:** Python · PyTorch · NumPy · Ray · MLflow · DVC · LangChain · LangGraph · OpenCV
-**HPC:** Warp · Thrust · OpenMP
+- **DevTools:** zshell · iTerm2 · zed · neovim · mise · pnpm · uv · conan
+- **Frontend:** Typescript · SvelteKit · TanStack Start · Tailwind · Shadcn
+- **Backend:** Typescript · Hono · Effect · Python · FastAPI · Postgres · MongoDB
+- **Platform:** Terraform · Kubernetes · GCP · AWS · Azure
+- **Systems:** C++ · Zig
+- **ML/MLE:** Python · PyTorch · NumPy · Ray · MLflow · DVC · LangChain · LangGraph · OpenCV
+- **HPC:** Warp · Thrust · OpenMP
 
 ## On my wish list
 
