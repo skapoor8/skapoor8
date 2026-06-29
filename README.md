@@ -1,4 +1,4 @@
-# Hi, I'm Sid 👋
+# Siddharth Kapoor
 
 Software engineer with 8 years across product engineering, platform engineering, and MLOps — building cloud-native systems in manufacturing and healthcare. Currently Engineering Manager at [Rebuild Manufacturing](https://rebuildmanufacturing.com) and pursuing an MS in ML at Georgia Tech.
 
