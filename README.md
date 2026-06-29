@@ -13,3 +13,17 @@ Software engineer with 8 years across product engineering, platform engineering,
 - **[looper](https://github.com/skapoor8/looper)** — elist management with a custom form builder
 - **[loki](https://github.com/skapoor8/loki)** — humble library for building SPAs
 - **[lokiReminders](https://github.com/skapoor8/lokiReminders)** - iOS Reminders clone built with loki.js
+
+## Stack
+
+**DevTools:** zshell · iTerm2 · zed · neovim · mise
+**Frontend:** Typescript · SvelteKit · TanStack Start · Tailwind · Shadcn
+**Backend:** Typescript · Hono · Effect · Python · FastAPI · Postgres · MongoDB
+**Platform:** Terraform · Kubernetes · GCP · AWS · Azure
+**Systems:** C++ · Zig
+**ML/MLE:** Python · PyTorch · NumPy · Ray · MLflow · DVC · LangChain · LangGraph · OpenCV
+**HPC:** Warp · Thrust · OpenMP
+
+## On my wish list
+
+Go · Rust · Odin · DeepAgents · Kokkos · WebGPU · OpenGL
