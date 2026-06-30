@@ -1,6 +1,6 @@
 # Siddharth Kapoor
 
-Software engineer with 8 years across product engineering, platform engineering, and MLOps — building cloud-native systems in manufacturing and healthcare. Currently Engineering Manager at [Rebuild Manufacturing](https://rebuildmanufacturing.com) and pursuing an MS in ML at Georgia Tech.
+Software engineer with 8 YoE across product engineering, platform engineering, and MLOps — building cloud-native systems in manufacturing and healthcare. Currently Engineering Manager at [Rebuild Manufacturing](https://rebuildmanufacturing.com) and pursuing an MS in ML at Georgia Tech.
 
 - Portfolio — [cloudvoyant.dev](https://cloudvoyant.dev)
 - LinkedIn — [Siddharth Kapoor](https://linkedin.com/in/siddharth-kapoor-562254131)
