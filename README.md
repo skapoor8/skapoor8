@@ -16,14 +16,14 @@ Software engineer with 8 YoE across product engineering, platform engineering, a
 
 ## Stack
 
-- **DevTools:** zshell · iTerm2 · zed · neovim · mise · pnpm · uv · conan
-- **Frontend:** Typescript · SvelteKit · TanStack Start · Tailwind · Shadcn
-- **Backend:** Typescript · Hono · Effect · Python · FastAPI · Postgres · MongoDB
-- **Platform:** Terraform · Kubernetes · GCP · AWS · Azure
-- **Systems:** C++ · C · Zig
-- **ML/MLE:** Python · PyTorch · NumPy · Ray · MLflow · DVC · LangChain · LangGraph · OpenCV
-- **HPC:** Warp · Thrust · OpenMP
+- **DevTools:** zshell · ghostty · zed · helix · zellij . mise · pnpm · uv · conan
+- **Languages:** python · typescript · c · c++ · c# · zig · odin
+- **Frontend:** svelte · react · angular · sveltekit · tanStack start · tailwind · shadcn · three.js/drei/threlte
+- **Backend:** hono/trpc+effect+zod+drizzle · fastapi+pydantic+sqlalchemy+alembic · asp.net+efcore · grpc+protovalidate+cpr · postgres · mongodb · dynamodb · cosmosdb
+- **Platform:** terraform · kubernetes · gcp · aws · azure
+- **ML/MLE:** pytorch · numpy · ray · mlflow · dvc · langchain · langgraph · opencv
+- **HPC:** warp · thrust · cuda · openmp
 
 ## On my wish list
 
-Go · Rust · Odin · DeepAgents · Kokkos · WebGPU · OpenGL
+go · rust · nushell · deepagents · webgpu · opengl
